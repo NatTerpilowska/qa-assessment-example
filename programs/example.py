@@ -15,4 +15,5 @@
     
 def endsPy(input):
     return True
-    
+       
+####I know what function I need (endswith), but I can't figure out how to use it with user input
